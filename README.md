@@ -1,2 +1,2 @@
-# hangman-game
-CODE ON HANGMAN GAME
+# hangman-game-js
+A html css JavaScript Hangman Game Project
